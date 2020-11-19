@@ -4,3 +4,6 @@ print("merhabalar")
 
 
 print("asdasdasdas")
+
+
+print("yeni")
