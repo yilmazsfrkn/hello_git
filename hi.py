@@ -11,3 +11,7 @@ print("yeni")
 
 def mvk():
     print("asdasd")
+    
+    
+def hell():
+    print("asdas")
