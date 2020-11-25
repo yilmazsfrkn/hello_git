@@ -7,3 +7,7 @@ print("asdasdasdas")
 
 
 print("yeni")
+
+
+def mvk():
+    print("asdasd")
