@@ -15,3 +15,7 @@ def mvk():
     
 def hell():
     print("asdas")
+
+
+def mehmet_ben():
+    print("hello")
