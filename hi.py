@@ -19,3 +19,6 @@ def hell():
 
 def mehmet_ben():
     print("hello")
+    
+def arif ():
+    print("Ben Arif!")
