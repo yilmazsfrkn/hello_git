@@ -19,3 +19,5 @@ def hell():
 
 def mehmet_ben():
     print("hello")
+
+print("asdasd")
