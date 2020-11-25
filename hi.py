@@ -25,3 +25,6 @@ def arif ():
 
 def oguz():
     print("Hej, jag är Oğuz")
+
+def cemtastan():
+    print("привет я джем таштан")
