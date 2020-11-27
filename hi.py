@@ -28,3 +28,6 @@ def oguz():
 
 def cemtastan():
     print("привет я джем таштан")
+
+def yakup():
+    print('This is a wonderful contribution for the mankind')
