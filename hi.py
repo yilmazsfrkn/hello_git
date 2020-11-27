@@ -28,3 +28,6 @@ def oguz():
 
 def cemtastan():
     print("привет я джем таштан")
+
+def ibrahimethemsakalli():
+    print("Grüezi Ich bin Ethem")
