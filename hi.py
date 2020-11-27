@@ -34,3 +34,6 @@ def ibrahimethemsakalli():
 
 def btl():
     print("hello")
+   
+def yakup():
+    print('This is a wonderful contribution for the mankind')
