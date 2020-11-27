@@ -31,3 +31,6 @@ def cemtastan():
 
 def ibrahimethemsakalli():
     print("Grüezi Ich bin Ethem")
+
+def btl():
+    print("hello")
