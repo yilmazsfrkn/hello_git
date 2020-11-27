@@ -29,5 +29,11 @@ def oguz():
 def cemtastan():
     print("привет я джем таштан")
 
+def ibrahimethemsakalli():
+    print("Grüezi Ich bin Ethem")
+
+def btl():
+    print("hello")
+   
 def yakup():
     print('This is a wonderful contribution for the mankind')
