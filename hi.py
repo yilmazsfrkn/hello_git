@@ -46,4 +46,7 @@ def simge():
 
 def mehmet():
     print("--") 
+   
+def merve():
+    print("Hello again!") 
 
