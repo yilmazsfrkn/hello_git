@@ -37,3 +37,6 @@ def btl():
    
 def yakup():
     print('This is a wonderful contribution for the mankind')
+
+def mert():
+    print('This is Mert!')
