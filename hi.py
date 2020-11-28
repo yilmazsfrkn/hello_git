@@ -43,3 +43,7 @@ def mert():
 
 def simge():
     print("Selam!")
+
+def mehmet():
+    print("--") 
+
