@@ -40,3 +40,6 @@ def yakup():
 
 def mert():
     print('This is Mert!')
+
+def simge():
+    print("Selam!")
