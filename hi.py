@@ -50,3 +50,7 @@ def mehmet():
 def merve():
     print("Hello again!") 
 
+def eylul():
+    print("akkurteylul in The area")
+
+
