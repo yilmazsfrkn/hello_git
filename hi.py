@@ -56,6 +56,6 @@ def eylul():
 def duyguozturk():
     print("Çay?")
 
-
-
+def mehmet_tan():
+	print("It is always darkest before the dawn.")
 
