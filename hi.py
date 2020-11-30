@@ -53,4 +53,9 @@ def merve():
 def eylul():
     print("akkurteylul in The area")
 
+def duyguozturk():
+    print("Çay?")
+
+
+
 
