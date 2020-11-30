@@ -16,7 +16,6 @@ def mvk():
 def hell():
     print("asdas")
 
-
 def mehmet_ben():
     print("hello")
     
@@ -59,3 +58,5 @@ def duyguozturk():
 def mehmet_tan():
 	print("It is always darkest before the dawn.")
 
+def kubra():
+    print("Merhabalar")
