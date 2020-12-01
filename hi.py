@@ -23,7 +23,7 @@ def arif ():
     print("Ben Arif!")
 
 def s_furkan_yilmaz():
-    print("Senai Furkan Yılmaz")
+    print("Senai Furkan Yılmaz vol2")
 
 def oguz():
     print("Hej, jag är Oğuz")
@@ -63,3 +63,4 @@ def mehmet_tan():
 
 def kubra():
     print("Merhabalar")
+
