@@ -22,6 +22,9 @@ def mehmet_ben():
 def arif ():
     print("Ben Arif!")
 
+def s_furkan_yilmaz():
+    print("Senai Furkan Yılmaz")
+
 def oguz():
     print("Hej, jag är Oğuz")
 
